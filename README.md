@@ -1,0 +1,2 @@
+# nikkinoltejourney.github.io
+Redirect
