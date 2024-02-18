@@ -1,2 +1,3 @@
-# nikkinoltejourney.github.io
-Redirect
+# Nikki Nolte Journey
+
+https://nikkinoltejourney.com
